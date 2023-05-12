@@ -1,2 +1,3 @@
-# prepcursehenry
-este es un repositoprio de prueba del modulo2del prepcurse de henry
+este es proyecto de prueba de como crear un directorio y clonarlo desde github a mi computadora
+
+
